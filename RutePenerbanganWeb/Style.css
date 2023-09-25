@@ -1,0 +1,17 @@
+.color1 {
+  background-color: #0a4d68;
+}
+
+.color2 {
+  background-color: #088395;
+}
+
+.color3 {
+  background-color: #afd3e2;
+}
+
+#home {
+  background-image: url("BG2.jpg");
+  background-size: cover;
+  padding: 200px;
+}
